@@ -72,7 +72,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: #4834d4;
+    background: #92d2f3;
     background: -webkit-linear-gradient(to right, #4834d4, #341f97);
     background: -webkit-linear-gradient(left, #4834d4, #341f97);
     background: linear-gradient(to right, #4834d4, #341f97);
@@ -87,7 +87,7 @@ h4,
 h5,
 h6 {
     font-family: 'Poppins', sans-serif;
-    color: #fff;
+    color: #ffffff;
     line-height: 1.4;
     font-weight: 500;
 }
@@ -735,10 +735,10 @@ ol {
 .lh-55px{line-height: 55px}
 .navbar-nav .nav-item .nav-link{
     padding: 20px 12px;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #fff;
+    color: #848891;
 }
 .navbar-nav .nav-item .nav-link:hover{color:#fed136;}
 .navbar-expand-md .navbar-nav .dropdown-menu{
@@ -770,7 +770,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     transform: translateY(0);
   }
 }
-.navbar-white .navbar-brand:hover{color:#fff}
+.navbar-white .navbar-brand:hover{color:#848891}
 .navbar-dark .navbar-brand:hover{color:#333}
 
 /* mobile view */
@@ -821,7 +821,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 }
 
 .navbar-dark .navbar-brand,
-.navbar-dark .navbar-nav .nav-item .nav-link{color: #333}
+.navbar-dark .navbar-nav .nav-item .nav-link{color: #FBFBFB}
 
 .navbar-cyan .navbar-brand,
 .navbar-cyan .navbar-nav .nav-item .nav-link{color: #04d0ff}
@@ -1115,7 +1115,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     margin-bottom: 20px;
 }
 .special-head{
-    color: #044afa !important;
+    color: #FBFBFB !important;
     padding-left: 40px;
     font-size: 18px;
     position: relative;
@@ -1123,7 +1123,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 }
 .special-head:before{
     content: '';
-    background: #39f9f9;
+    background: #FBFBFB;
     position: absolute;
     top: 50%;
     left: 0;
@@ -1131,7 +1131,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     height: 2px;
 }
 .special-head.dark{
-    color: #f8f517;
+    color: #FBFBFB;
     font-weight: bold;
 }
 .special-head.dark:before{
@@ -1624,13 +1624,13 @@ p.artficial:before{
     cursor: pointer;
 }
 .b-text {
-    color: #1f2471 !important;
+    color: #FBFBFB !important;
 }
 .sky-text {
     color: #5ba5fb !important;
 }
 .d-blue{
-    color: #13287e !important
+    color: #2341ae !important
 }
 .bold{
     font-weight: 600 !important
@@ -3187,21 +3187,21 @@ p.artficial:before{
 }
 
 .price_table_text > h5 {
-    color: #8fa2be !important;
+    color: #1561e7 !important;
     font-size: 17px;
     text-transform: uppercase;
     margin-bottom: 20px;
     
 }
 .single_price_table_content.active  .price_table_text > h5{
-    color:#fff !important
+    color:#1561e7 !important
 }
 .price_table_text > h1 {
     font-size: 38px;
     margin:30px 0 15px;
     font-weight: 800;
     line-height: 1;
-    color: #3964f9 
+    color: #1561e7 
 }
 
 .price_table_text > p,
@@ -5036,7 +5036,7 @@ body.light-version {
 }
 
 .light-version p {
-    color: #888;
+    color: #B9BCC3;
 }
 
 .light-version h2,
